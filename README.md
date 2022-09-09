@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# Hardhat fund me smart contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+A fund me smart contract made following Patrick's Course on FreeCodeCamp
 
-Try running some of the following tasks:
+https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=45170s
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Also, this smart contract throws an error when testing due to the fact that the rinkeby network is deprecated
